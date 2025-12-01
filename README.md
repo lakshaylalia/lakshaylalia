@@ -1,7 +1,7 @@
 ## Hi there, I'm Lakshay👋
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Live-Portfolio-blue)](https://portfolio-mu-flame-40.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Live-Portfolio-blue)](https://lakshaylalia.in/)
  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lakshaylalia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-lalia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lakshaylalia@gmail.com) 
 
 # 💻 Tech Stack:
